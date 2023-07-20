@@ -1,5 +1,5 @@
 # 💫 About Me: I'm Sajjak Ali
-🌱 I’m currently learning REACT JS<br><br>💬 Ask me about React redux nodeJs<br><br>📝 View my Project here. https://delicate-belekoy-6a378c.netlify.app/ <br><br>📫 How to reach me sajjak2506@gmail.com
+🌱 I’m MERN Stack Developer<br><br>💬 Ask me about React redux nodeJs<br><br>📝 View my Project here. https://delicate-belekoy-6a378c.netlify.app/ <br><br>📫 How to reach me sajjak2506@gmail.com
 <br><br>
 📫 My Portfolio https://imsajjakali.github.io/
 
