@@ -6,6 +6,9 @@
 <br><br>
 📫 My Portfolio https://imsajjakali.github.io/
 <br><br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imSAJJAKALI&label=Profile%20views&color=0e75b6&style=flat" alt="imSAJJAKALI" /> </p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 (https://www.linkedin.com/in/sajjak-ali-8696a4223/) 
