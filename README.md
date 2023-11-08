@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm SAJJAK ALI</h1>
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73E13&center=true&width=435&lines=Aspiring+MERN+Stack+Devloper;Currently+Learning+React.js)](https://git.io/typing-svg) -->
+
 🌱 I’m MERN Stack Developer<br><br>💬 Ask me about React Redux NodeJs MongoDb Express Next.js <br><br>📝 View my Project here. https://findmytrip.netlify.app/ <br><br>📫 How to reach me sajjak2506@gmail.com
 <br><br>
 📫 My Portfolio https://imsajjakali.github.io/
